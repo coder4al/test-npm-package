@@ -1,0 +1,17 @@
+{
+  "name": "@coder4al/test-npm",
+  "version": "1.0.0",
+  "description": "testing of creating npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coder4al/test-npm-package.git"},
+  "keywords": [
+    "tnp"
+  ],
+  "author": "coder",
+  "license": "ISC"
+}
